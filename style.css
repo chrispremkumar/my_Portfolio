@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #000001;
+    color: white;
+}
+.navbar{
+    box-shadow:0px 0px 2px 0px whitesmoke;
+}
+header{
+    position: sticky;
+    top: 0;
+    background-color: #000001;
+}
+#Hero img{
+    height: 550px;
+}
+#Hero .hr-line{
+    height: 1px;
+    width: 450px;
+    background-color: white;
+
+}
+.hr-line-2{
+    height: 2px;
+    width: 100px;
+    background-color: white;
+}
+.hr-line-3{
+    height: 2px;
+    width: 50px;
+    background-color: white;
+}
+.skil{
+    width: 150px;
+    height: 230px;
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    color: black;   
+}
+.skil:hover{
+    background-color: #d4d4d8;
+    color: black;
+}
+.hr-line-4{
+    height: 2px;
+    width: 100px;
+    background-color: white;
+
+}
+.project{
+    background-color: rgb(39, 38, 38);
+    color: white;
+}
+.project:hover{
+   background-color: black;
+   color: white;
+}
+.contact{
+    width: 200px;
+    height: 250px;
+}
+.email{
+    width: 250px;
+}
