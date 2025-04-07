@@ -13,8 +13,8 @@ header{
     background-color: #000001;
 }
 #Hero img{
-    height: 430px;
-    width:550px;
+    height: 500px;
+    width:600px;
 }
 #Hero .hr-line{
     height: 1px;
@@ -28,20 +28,19 @@ header{
     background-color: white;
 }
 .skil{
-    box-shadow: 1px 1px 3px 2px whitesmoke;
     width: 150px;
     height: 230px;
     display: flex;
     flex-direction: column;
-    background-color: rgb(99, 95, 95);
-    color: rgb(246, 240, 240);   
+    background-color: #F5F5F5;
+    color: #000001;   
 }
 .skil:hover{
-    background-color: #d4d4d8;
-    color: black;
+    background-color: #7d7d80;
+    color: #090909;
 }
 .project{
-    box-shadow: 2px 2px 4px 5px whitesmoke;
+    box-shadow: 2px 2px 4px 5px rgb(71, 71, 71);
     background-color: rgb(39, 38, 38);
     color: white;
 }
